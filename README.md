@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ahmed-sabbah-js/ahmed-sabbah-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmed 👋
 
-Here are some ideas to get you started:
+I'm a React Developer focused on building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- React
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+
+## Currently Learning
+
+- TypeScript
+- Laravel
+- MySQL
+- REST APIs
+
+## My Goals
+
+- Build professional business applications.
+- Improve my backend development skills.
+- Create practical software solutions for businesses.
+
+## Contact
+
+- GitHub: https://github.com/ahmed-sabbah-js
