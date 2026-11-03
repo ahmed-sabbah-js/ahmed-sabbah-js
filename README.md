@@ -1,4 +1,4 @@
-
+![Profile Banner](./profile-banner.png)
 # Hi, I'm Ahmed 👋
 
 I'm a React Developer focused on building modern, responsive, and user-friendly web applications.
